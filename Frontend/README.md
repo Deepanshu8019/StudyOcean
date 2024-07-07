@@ -1,7 +1,5 @@
 # StudyOcean Online Education Platform (MERN App) [Website Link](https://study-ocean.vercel.app/)
 
-![Main Page](images/mainpage.png)
-
 ## Project Description
 
 StudyOcean is a fully functional ed-tech platform that enables users to create, consume,
