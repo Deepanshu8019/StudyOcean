@@ -1,4 +1,5 @@
-const BASE_URL = "https://studyocean.onrender.com/api/v1"
+const URL = process.env.REACT_APP_URL;
+const BASE_URL=URL;
 
 // AUTH ENDPOINTS
 export const endpoints = {
